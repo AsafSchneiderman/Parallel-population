@@ -1,0 +1,8 @@
+1 Threads | 51 ms
+2 Threads | 16 ms
+4 Threads | 13 ms
+8 Threads | 7 ms
+16 Threads | 12 ms
+32 Threads | 13 ms
+64 Threads | 7 ms
+128 Threads | 15 ms
